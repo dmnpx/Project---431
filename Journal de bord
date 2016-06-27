@@ -196,3 +196,9 @@
   - Continuation de l'intégration du code de Damien (Personnage qui bouge et Doge) dans la map.
   - 2h
   - Emanuel
+
+ - Essai d'ajouter un fichier (ou une fonction) contenant le menu de notre programme, vu que c'est un code qui peut se répéter plusieurs 
+ +  fois en fonction des choix de l'utilisateur. Cependant je n'arrive pas à trouver la manière de l'appeler lorsqu'on en a besoin.
+ +  Intégration des differentes parties du programme dans un seul projet.
+ +  - 1h
+ +  - Pablo
